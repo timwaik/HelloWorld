@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(30, 30, 30);
+}
+
+h1 {
+  font-size: 330%;
+  font-family: verdana;
+  text-align: left;
+  color: rgb(119, 221, 119);
+}
+
+h2{
+  font-family: times;
+  font-size: 200%;
+  color: rgb(255, 105, 97);
+  position: relative;
+  left: 300px;
+}
+
+p {
+  font-size: 500%;
+  font-family: courier;
+  text-align: center;
+  color: rgb(174, 198, 207);
+}
